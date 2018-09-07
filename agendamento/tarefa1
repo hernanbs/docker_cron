@@ -1,0 +1,3 @@
+#min hour day month semana comando
+# m h  dom mon dow user   command
+* * * * * root mkdir /home/pasta"$(date)"  2>/home/error1
